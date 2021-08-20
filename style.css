@@ -1,0 +1,41 @@
+body {
+  height: 100vh;
+}
+
+h3 {
+  color: teal;
+  font-weight: bolder !important;
+}
+
+.btn {
+  border: 1px solid teal!important;
+  padding: 7px 25px!important;
+}
+
+.btn:hover {
+  background-color: teal !important;
+}
+
+h6 {
+  font-weight: bold !important;
+}
+.content {
+  background-color: white;
+  height: 40%;
+  width: 47%;
+  border-radius: 20px;
+}
+
+input {
+  border: 0;
+  border-radius: 6px;
+  font-size: 24px;
+  padding: 5px 15px;
+  background: teal;
+  color: white;
+  width: 50%;
+}
+
+input:focus{
+    outline: none;
+}
